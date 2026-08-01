@@ -8,8 +8,8 @@ A 2-page Power BI dashboard connected live to a PostgreSQL database, analysing c
 
 > *Add screenshots of both pages — Win+Shift+S while the report is open in Power BI Desktop*
 
-![CC Transaction Page](screenshots/01_cc_transaction.png)
-![CC Customer Page](screenshots/02_cc_customer.png)
+![CC Transaction Page](01_cc_transaction.png)
+![CC Customer Page](02_cc_customer.png)
 
 ---
 
@@ -98,10 +98,10 @@ This step was intentionally included to build practical understanding of **how B
 
 ## 🙋 About
 
-Built by **[Your Name]** as part of a data analyst portfolio project.
+Built by **[Atharv Dhole]** as part of a data analyst portfolio project.
 
-- 🔗 LinkedIn: [your-linkedin-url]
-- 📧 Email: your@email.com
+- 🔗 LinkedIn: [https://www.linkedin.com/in/atharv-dhole/]
+- 📧 Email: atharvdhole22@email.com
 
 ---
 
