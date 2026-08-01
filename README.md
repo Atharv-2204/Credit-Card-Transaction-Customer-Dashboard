@@ -5,10 +5,10 @@ A 2-page Power BI dashboard connected live to a PostgreSQL database, analysing c
 ---
 
 ## 📊 Dashboard Preview
-
-> *Add screenshots of both pages — Win+Shift+S while the report is open in Power BI Desktop*
-
+**Transaction Dashboard:**
 ![CC Transaction Page](01_cc_transaction.png)
+
+**Customer Dashboard:**
 ![CC Customer Page](02_cc_customer.png)
 
 ---
