@@ -1,10 +1,10 @@
-# 💳 Credit Card Transaction & Customer Report — Power BI
+# Credit Card Transaction & Customer Report - Power BI
 
 A 2-page Power BI dashboard connected live to a PostgreSQL database, analysing credit card transaction patterns and customer profiles — built to demonstrate not just report design, but the full data refresh lifecycle from database to dashboard.
 
 ---
 
-## 📊 Dashboard Preview
+## Dashboard Preview
 **Transaction Dashboard:**
 ![CC Transaction Page](01_cc_transaction.png)
 
@@ -13,7 +13,7 @@ A 2-page Power BI dashboard connected live to a PostgreSQL database, analysing c
 
 ---
 
-## 🎯 Project Objective
+## Project Objective
 
 To build a live-connected BI reporting solution — not a static, one-time report — that answers two core business questions:
 1. **Transaction behavior** — What do spending patterns look like across categories, time, and transaction types?
@@ -23,7 +23,7 @@ A key goal of this project was to go beyond dashboard *design* and understand ho
 
 ---
 
-## 🗄️ Data Architecture
+## Data Architecture
 
 Unlike a typical Power BI project built on a static CSV import, this dashboard connects **live to a PostgreSQL database**, replicating how BI tools are used in real workplace environments.
 
@@ -51,7 +51,7 @@ This step was intentionally included to build practical understanding of **how B
 
 ---
 
-## 📁 Report Structure
+## Report Structure
 
 | Page | Focus | Visual count |
 |---|---|---|
@@ -60,7 +60,7 @@ This step was intentionally included to build practical understanding of **how B
 
 ---
 
-## 🛠️ Power BI Skills Demonstrated
+## Power BI Skills Demonstrated
 
 | Skill | Where it's used |
 |---|---|
@@ -75,7 +75,7 @@ This step was intentionally included to build practical understanding of **how B
 
 ---
 
-## 🚀 How to Reproduce This Project
+## How to Reproduce This Project
 
 1. Install **PostgreSQL** and **pgAdmin 4**
 2. Create a database named `ccdb`
@@ -87,7 +87,7 @@ This step was intentionally included to build practical understanding of **how B
 
 ---
 
-## 💡 What I Learned
+## What I Learned
 
 - How to connect Power BI directly to a PostgreSQL database rather than relying on static file imports — a fundamentally different (and more production-realistic) workflow.
 - The practical difference between building a dashboard once versus maintaining one — by deliberately adding new data to the source tables after the initial build and confirming the Refresh mechanism correctly pulled it through.
@@ -96,13 +96,11 @@ This step was intentionally included to build practical understanding of **how B
 
 ---
 
-## 🙋 About
+## About
 
 Built by **[Atharv Dhole]** as part of a data analyst portfolio project.
 
-- 🔗 LinkedIn: [https://www.linkedin.com/in/atharv-dhole/]
-- 📧 Email: atharvdhole22@email.com
+- 🔗 LinkedIn: https://www.linkedin.com/in/atharv-dhole/
+- 📧 Email: atharvdhole22@gmail.com
 
 ---
-
-*If you found this useful, please ⭐ star the repository!*
