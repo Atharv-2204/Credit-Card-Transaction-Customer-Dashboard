@@ -98,7 +98,7 @@ This step was intentionally included to build practical understanding of **how B
 
 ## About
 
-Built by **[Atharv Dhole]** as part of a data analyst portfolio project.
+Built by **Atharv Dhole** as part of a data analyst portfolio project.
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/atharv-dhole/
 - 📧 Email: atharvdhole22@gmail.com
